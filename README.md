@@ -1,0 +1,1 @@
+investigates the mechanistic link between a rare genetic mutation affecting glycine decarboxylase (GLDC) activity and its contribution to the pathophysiology of schizophrenia. It includes data analysis, research findings, and potentially tools for exploring GLDC's role in neurotransmission and brain function.
